@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '勇敢的少年，快去创造奇迹',
   domain: 'https://www.notion.so/782da38a47734c3e9d2fee1d9a2b58d8',
-  author: '拾又',
+  author: '  ',
 
   // open graph metadata (optional)
   description: 'Example site description',
